@@ -1,0 +1,1 @@
+- [Plain Java console scope](plain-java-console-scope.md) — Keep this project a dependency-free Java 21 console app, without web frameworks, servers, frontends, or databases.
